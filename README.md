@@ -1,6 +1,21 @@
 
 # *Rich Dad Poor Dad* Summary
 
+![Book Cover](https://github.com/alxayeed/books-rich-dad-poor-dad/blob/main/cover.jpg)
+
+## Index
+- [Introduction](#introduction)
+- [Chapter 1: The Rich Don’t Work for Money](#chapter-1-the-rich-dont-work-for-money)
+- [Chapter 2: Why Teach Financial Literacy?](#chapter-2-why-teach-financial-literacy)
+- [Chapter 3: Mind Your Own Business](#chapter-3-mind-your-own-business)
+- [Chapter 4: The History of Taxes and the Power of Corporations](#chapter-4-the-history-of-taxes-and-the-power-of-corporations)
+- [Chapter 5: The Rich Invent Money](#chapter-5-the-rich-invent-money)
+- [Chapter 6: Work to Learn—Don’t Work for Money](#chapter-6-work-to-learn-dont-work-for-money)
+- [Chapter 7: Overcoming Obstacles](#chapter-7-overcoming-obstacles)
+- [Chapter 8: Getting Started](#chapter-8-getting-started)
+- [Chapter 9: Still Want More? Here Are Some To Do’s](#chapter-9-still-want-more-here-are-some-to-dos)
+- [Final Thoughts](#final-thoughts)
+
 ## Introduction
 In the introduction of *Rich Dad Poor Dad*, Robert Kiyosaki sets the stage for his exploration of contrasting financial philosophies through the lens of two father figures in his life. His biological father, referred to as "Poor Dad," embodies traditional beliefs about education and job security. Poor Dad advocates for a conventional path—attending school, securing a stable job, and working hard for a salary. Conversely, "Rich Dad," the father of Kiyosaki's best friend, represents a different approach. Rich Dad emphasizes the importance of financial education, investing wisely, and entrepreneurship. Kiyosaki aims to challenge the conventional wisdom surrounding money and success, offering readers a new perspective on achieving financial independence through education, strategic planning, and active management of personal finances.
 
@@ -96,4 +111,3 @@ In the final chapter, Kiyosaki offers additional recommendations for continued f
 
 ## Final Thoughts
 In the conclusion of *Rich Dad Poor Dad*, Kiyosaki reiterates the importance of taking control of your financial future through continuous learning, strategic action, and the application of sound financial principles. He urges readers to challenge traditional beliefs about money and actively pursue financial independence by investing in their financial education, making informed decisions, and applying innovative strategies. Kiyosaki emphasizes that financial success requires a proactive approach, a willingness to learn, and the courage to take calculated risks.
-
